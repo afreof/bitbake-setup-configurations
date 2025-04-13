@@ -23,7 +23,7 @@
             "path": "meta-alex"
         }
     },
-    "description": "Poky reference distribution, with alex fixes",
+    "description": "Poky reference distribution, with afreof non-sense",
     "bitbake-setup": {
         "configuration": {
             "gadget": {
